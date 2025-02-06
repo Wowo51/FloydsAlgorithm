@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloydsAlgorithm", "FloydsAlgorithm\FloydsAlgorithm.csproj", "{77BEE9D3-A040-4F88-B0A1-76D5273AE27A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloydsAlgorithmTest", "FloydsAlgorithmTest\FloydsAlgorithmTest.csproj", "{93EF3AC2-3F32-415A-B3A5-9C882734F8DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BEE9D3-A040-4F88-B0A1-76D5273AE27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BEE9D3-A040-4F88-B0A1-76D5273AE27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BEE9D3-A040-4F88-B0A1-76D5273AE27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BEE9D3-A040-4F88-B0A1-76D5273AE27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EF3AC2-3F32-415A-B3A5-9C882734F8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EF3AC2-3F32-415A-B3A5-9C882734F8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EF3AC2-3F32-415A-B3A5-9C882734F8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EF3AC2-3F32-415A-B3A5-9C882734F8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B2E497F-5E1D-4262-A9E8-DCD516C11DC0}
+	EndGlobalSection
+EndGlobal
